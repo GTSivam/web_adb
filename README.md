@@ -14,7 +14,7 @@ Web Based ADB perform...
 Install my-project 
 
 ```bash
-  apt-get install git -y
+  sudo apt-get install git -y
   git clone https://github.com/GTSivam/Web_adb.git
   cd Web_adb
   chmod 777 install
